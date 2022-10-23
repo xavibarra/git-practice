@@ -1,2 +1,3 @@
 name: xavi
 age: 23
+favorite color: blue
